@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+@theme{
+  --gradient-custom: linear-gradient(to right, #3b82f6, #9333ea);
+  --gradient-custom-2: linear-gradient(to left, #3b82f6, #f43f5e);
+  --gradient-card: linear-gradient(to right, #38b2ac, #4299e1);
+
+  --color-navbar: #ffffff;
+  --color-btn: #3364F7;
+  --color-link: #2a5bd7;
+
+  --box-shadow-custom: 0 0 15px rgba(0, 0, 0, 0.3);
+  --box-shadow-right: 10px 0px 10px -5px rgba(0, 0, 0, 0.3);
+
+  --font-roboto: "Roboto", sans-serif;
+  --font-montserrat: "Montserrat";
+}
