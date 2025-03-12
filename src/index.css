@@ -1,9 +1,6 @@
 @import "tailwindcss";
 
 @theme{
-  --gradient-custom: linear-gradient(to right, #3b82f6, #9333ea);
-  --gradient-custom-2: linear-gradient(to left, #3b82f6, #f43f5e);
-  --gradient-card: linear-gradient(to right, #38b2ac, #4299e1);
 
   --color-navbar: #ffffff;
   --color-btn: #3364F7;
